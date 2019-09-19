@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/twardcox/lambda_taskmaster_crud/issues"
   },
-  "homepage": "https://github.com/twardcox/lambda_taskmaster_crud#readme"
+  "homepage": "https://github.com/twardcox/lambda_taskmaster_crud#readme",
+  "dependencies": {
+    "lambda-multipart-parser": "0.0.2",
+    "uuid": "^3.3.3"
+  }
 }
